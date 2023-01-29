@@ -9,6 +9,9 @@
 * Pull all into a GitHub repository
 * Please call the repository as follow: s2a4c7Y22-2b4a8-1Ae4-a3Bc1-p44sac1D0vM6
 
+## Prerequisites
+You'll need installed MongoDB client, if you'd like to see changes using MongoCompass.
+
 ## How to build project:
 Basically, you need:
 1. Clone this repo on your local machine.
