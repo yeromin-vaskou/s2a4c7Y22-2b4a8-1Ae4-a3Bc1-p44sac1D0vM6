@@ -1,5 +1,3 @@
-# s2a4c7Y22-2b4a8-1Ae4-a3Bc1-p44sac1D0vM6
-
 # Simple Golang Tech Task for Pro-Ect company.
 
 ## Main tasks were to realize simple logic, which contains:
